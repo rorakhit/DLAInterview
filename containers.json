@@ -1,0 +1,8 @@
+{
+    "flask": {
+        "image": ":datalign-interview-service.datalign-interview.2",
+        "ports": {
+            "8080": "HTTP"
+        }
+    }
+}
